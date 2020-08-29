@@ -27,7 +27,6 @@ public class Test {
 		} catch (SQLException e) 
 		{
 			e.printStackTrace();
-			System.out.println("error printed");
 		}
 	}
 
